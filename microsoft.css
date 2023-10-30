@@ -1,0 +1,333 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-weight: lighter;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    margin-left: 30px;
+}
+.headone{
+    margin-left: 50px;
+    
+    height: 54px;
+    width: 1349px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.cartlogo img{
+    height: 20px;
+    width: 20px;
+}
+.searchlogo img{
+    height: 20px;
+    width: 20px;
+}
+.contactlogo{
+    height: 20px;
+    width: 20px;
+}
+.sectionone{
+    height:54px;
+    width: 137px;
+    display: flex;
+    margin-left: 30px;
+    align-items: center;
+}
+.sectionone img{
+    height: 23;
+    width: 108px;
+}
+.sectiontwo{
+    height: 54px;
+    width: 750px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.sectionthree{
+    height: 54px;
+    width: 244px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+.mainbody{
+    height: 641px;
+    width: 1345px;
+    background-color: white;
+    display: flex;
+}
+.withimage{
+    height: 574px;
+    width: 1339px;
+    background-image: url(imagesmicrosoft/Highlight-Slim-Multi-Canvas-M365-Anthem-Attract-Image-Create_VP4-1399x600.avif);
+}
+.maintextbox{
+    height: 258px;
+    width: 512px;
+    margin-left: 100px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.subtextbox{
+    height: 162px;
+    width: 406px;
+    
+   
+}
+.paragraph{
+    height: 48px;
+    margin-top: 10px;
+    
+
+}
+.twobuttons{
+    height:56px;   
+}
+.twobuttons button{
+    height: 40px;
+    border: none;
+    padding: 5px;
+    font-size: 16px;
+    background-color: #0067B8;
+    color:white;
+}
+.twobuttons a{
+    font-size: 16px;
+}
+.controlbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 44px;
+    width: 240px;
+    margin-left: 550px;
+    
+}
+.controlbox img{
+    height: 20px;
+    width: 25px;
+    margin-left: 20px;
+}
+.layoutcontainer{
+    height: 120px;
+    width: 1339px;
+    display: flex;
+    justify-content: center;
+}
+.layoutcontainer div{
+    margin-left: 15px;
+    height: 85px;
+    width: 218px;
+    border: solid white;
+}.layoutcontainer div img{
+    height: 40px;
+    width: 40px;
+    margin-left: 80px;
+}
+.layoutcontainer div h3{
+    color: #0067B8;
+    text-decoration: underline;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+}
+.productcontainer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 345px;
+    width: 1339px;
+    margin-left: 15px;
+    display: flex;
+}
+.productcontainer div{
+    height:auto;
+    width: 334px;
+}
+.productcontainer div img{
+    margin-left: 15px;
+}
+.productcontainer div h1{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.productcontainer div h4{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.productcontainer div a{
+    text-align: center;
+    color: #0067B8;
+    font-size: 18px;
+}
+.secondimagecontainer{
+    height: 578px;
+    width: 1339px;
+    display: flex;
+    align-items: center;
+}
+.secondimage{
+    background-image: url(imagesmicrosoft/aiinnovation.avif);
+    height: 500px;
+    width: 1250px;
+    margin-left: 50px;
+
+}
+.insidesecondimage{
+    display: flex;
+    justify-content: center;
+    height: 341px;
+    width: 455px;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 22px;
+}
+.threetextbox{
+    height: 245px;
+    width: 400px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.headtext,.paragraph,.button{
+    height: 81px;
+}
+.paragraph{
+    font-size: 18px;
+}
+.button button{
+    background-color: #0067B8;
+    height: 50px;
+    width: 150px;
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    border: none;
+}
+.buisinesssection{
+    height: 420px;
+    width: 1339px;
+}
+.buisinesssection h2{
+    margin-left: 60px;
+    font-size: 30px;
+}
+.buisinesssectioncontainer{
+    height: 369px;
+    width: 1250px;
+    margin-left: 60px;
+    display: flex;
+
+}
+.buisinesssectioncontainer div{
+    width: 310px;
+    margin-left: 10px;
+}
+.buisinesssectioncontainer h3{
+    font-size: 25px;
+    margin-top: 10px;
+}
+.buisinesssectioncontainer a{
+    font-size: 20px;
+    color: #0067B8;
+}
+.aiimagecontainer{
+    height: 578px;
+    width: 1329px;
+    
+}
+.withaiimage{
+    height: 455px;
+    width: 1250px;
+    background-image: url(imagesmicrosoft/aiimage.avif);
+    margin-left: 50px;
+    padding-top: 120px;
+}
+.box-in-image{
+    height: 340px;
+    width: 455px;
+    margin-left: 70px;
+    padding-top: 30px;
+    background-color: white;
+}
+.with-text{
+    height: 245px;
+    width: 360px;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+.with-text h1{
+    font-size: 32px;
+}
+.with-text button{
+    width: 360px;
+    height: 45px;
+    font-size: 15px;
+    padding: 0px;
+    font-weight: bold;
+    background-color: #0067B8;
+    color: white;
+    margin-top: 50px;
+    border: none;
+}
+.socialmediatags{
+    height: 40px;
+    width: 1214px;
+    margin-left: 50px;
+    margin-top: 50px;
+    display: flex;
+}
+.socialmediatags h3{
+    margin-left: 30px;
+    width: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+.socialmediatags img{
+    margin-bottom: 15px;
+}
+.backbutton{
+    height: 65px;
+    width: 1329px;
+}
+.backbutton button{
+    height: 50px;
+    width: 150px;
+    margin-left: 1180px;
+    margin-top: 8px;
+    background-color: #e6e6e6;
+    border: none;
+    color: black;
+    font-size: medium;
+}
+.footerscontainer{
+    height: 400px;
+    width: 1280px;
+    display: flex;
+    background-color: #e6e6e6;
+    margin-left: 30px;
+}
+.footerscontainer div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1;
+
+}
+.footerscontainer a{
+    font-size: 14px;
+    line-height: 35px;
+    font-weight: 100;
+}
+.footerscontainer h3{
+    margin-left: 25px;
+}
+
+
+
